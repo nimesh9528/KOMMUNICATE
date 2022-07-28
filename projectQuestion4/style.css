@@ -30,7 +30,7 @@ article p{
 .row::after{
     display: table;
     clear: both;
-    content :" ";
+    content : " ";
 }
 
 
