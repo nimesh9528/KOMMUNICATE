@@ -8,4 +8,4 @@ while(num != 0){
   num = Math.floor(num/10);
 }
 
-console.log("Reverse number : "+rev);
+console.log("Reversed number : "+rev);
